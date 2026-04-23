@@ -1,0 +1,10 @@
+# Carpetas temporales de Unreal
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Archivos temporales de tu entorno C++
+.idea/
+cmake-build-*/

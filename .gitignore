@@ -1,0 +1,9 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+.idea/
+cmake-build-*/
+.vs/
+.vs/
